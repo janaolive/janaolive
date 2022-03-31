@@ -3,7 +3,7 @@
 
 - 🔭 Estou finalizando o segundo módulo de Front-End;
 - 💬 Pergunte-me o que quiser. Adoro ouvir as pessoas e ajudar no que for possível;
-- 🌱 Sou apaixonada pelas minhas filhas: humanas e plantas, amigos, música, vinho e café!
+- 🌱 Sou apaixonada por minhas filhas, minhas plantas, amigos, música, vinho e café!
 - 📫 Para entrar em contato por e-mail, por favor envie sua mensagem para: [janainapp@gmail.com]
 - 😄 Ela/Dela
 - :computer: Principais ferramentas utilizadas:
