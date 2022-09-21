@@ -1,5 +1,5 @@
 # Olá! Muito prazer, sou a Janaina! 
-## Sou de São Paulo, tenho 39 anos, estudante de Desenvolvimento Web na Trybe para concluir minha transição de carreira.
+## Sou de São Paulo, tenho 40 anos, estudante de Desenvolvimento Web na Trybe para concluir minha transição de carreira.
 
 - 🔭 Estou estdando o terceiro módulo do curso, relacionado a Back-End;
 - 💬 Pergunte-me o que quiser. Adoro ouvir as pessoas e ajudar no que for possível;
